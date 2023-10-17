@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Tilt+Neon&display=swap');
+
+* {
+    font-family: 'AR One Sans', sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    cursor: pointer;
+}
+
+.element-wrapper {
+    margin: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.blue-background {
+    background-color: #0c73fe;
+    color: white;
+}
+
+.body-panels {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    flex: 1;
+}
+
+.panel {
+    min-width: 450px;
+    min-height: 250px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.footer h2 {
+    margin: 0;
+}
+
+.footer a {
+    color: white;
+    padding: 5px;
+}
+
+.common-header {
+    font-size: 65px;
+    font-weight: 600;
+    text-align: center;
+}

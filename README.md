@@ -6,13 +6,14 @@ http-server
 ---
 # Pages:
 
-- Homepage      -> index.html
-- Find ticket   -> find_tickets.html
-- About Us      -> about_us.html
-- Gallery       -> gallery.html
-- Location      -> location.html
-- Blog          -> blog.html
-- Contact Us    -> contact_us.html
+- Homepage/Search -> index.html ++
+- Contact Us      -> contact_us.html ++
+- About Us        -> about_us.html
+- Gallery         -> gallery.html
+- Location        -> location.html
+- Blog            -> blog.html
+- How it works    -> how-to.html
+
 
 ---
 ## Forms + validation
