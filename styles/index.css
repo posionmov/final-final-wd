@@ -76,6 +76,11 @@
     object-fit: cover;
     border-radius: 5px;
     border: 1px solid white;
+    transition: all .2s ease-in-out;
+}
+
+.search-result-panel img:hover {
+    transform: scale(1.1);
 }
 
 .search-result-panel .left-part {
@@ -98,6 +103,11 @@
 
 .search-logo img {
     max-width: 30vh;
+    transition: all .2s ease-in-out;
+}
+
+.search-logo img:hover {
+    transform: scale(1.1);
 }
 
 .search-result-panel button:hover {

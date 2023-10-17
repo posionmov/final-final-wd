@@ -1,0 +1,9 @@
+.location-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.address-description {
+    width: 300px;
+    margin: 10px;
+}

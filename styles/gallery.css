@@ -1,0 +1,16 @@
+.gallery-wrapper {
+    width: 640px;
+}
+
+.gallery-wrapper img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+    border: 1px solid white;
+    transition: all .2s ease-in-out;
+}
+
+.gallery-wrapper img:hover {
+    transform: scale(1.4);
+}

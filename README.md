@@ -8,9 +8,9 @@ http-server
 
 - Homepage/Search -> index.html ++
 - Contact Us      -> contact_us.html ++
-- About Us        -> about_us.html
-- Gallery         -> gallery.html
-- Location        -> location.html
+- About Us        -> about_us.html ++
+- Gallery         -> gallery.html ++
+- Location        -> location.html ++
 - Blog            -> blog.html
 - How it works    -> how-to.html
 
