@@ -11,8 +11,8 @@ http-server
 - About Us        -> about_us.html ++
 - Gallery         -> gallery.html ++
 - Location        -> location.html ++
-- Blog            -> blog.html
-- How it works    -> how-to.html
+- Blog            -> blog.html ++
+- How it works    -> how-to.html ++
 
 
 ---
